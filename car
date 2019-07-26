@@ -1,0 +1,10 @@
+package wedding;
+
+public class array {
+
+	public static void main(String[] args) {
+	 String [] car= {"volvo" ,"bmw","ford","bench"};
+	 System.out.println(car[2]);
+	}
+
+}
